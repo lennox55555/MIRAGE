@@ -1,0 +1,14 @@
+Music-Mask-Adversarial-Attack/
+├── data/
+│   └── original_wavs
+│   └── perturbed_wavs
+└── research/
+│   └── metricTesting.ipynb
+└── src/
+│   └── script.py
+└── tests/
+│   └── test.py
+└── .gitignore
+└── requirements.txt
+└── README.md
+└── license.txt
