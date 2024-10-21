@@ -1,13 +1,17 @@
-Music-Mask-Adversarial-Attack/
+MIRAGE/
+├── config.py  # Config file at the root of the directory
 ├── data/
-│   └── original_wavs
-│   └── perturbed_wavs
+│   └── original_wav
+│   └── perturbed_wav
 └── research/
-│   └── metricTesting.ipynb
+│   └── metric_testing.ipynb
+│   └── stem_separation.py
+│   └── song_to_formula.py
+│   └── formula_to_song.py
 └── src/
-│   └── script.py
+│   └── script.py
 └── tests/
-│   └── test.py
+│   └── test.py
 └── .gitignore
 └── requirements.txt
 └── README.md
