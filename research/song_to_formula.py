@@ -83,6 +83,7 @@ def main():
         config.INPUT_FORMULA = equations_path
 
         print(f"Song converted to formulas. Use formula_to_song.py to reconstruct the audio.")
+        print("hello")
 
     except Exception as e:
         print(f"An error occurred: {str(e)}")
