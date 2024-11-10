@@ -116,5 +116,3 @@ Displays all songs and features currently stored in the database. This option he
 - **Documentation**: [MIRAGE Documentation](https://docs.google.com/document/d/13r4rJeDVK2oXUU2blaCPFalAY5RN2bQUMBlERZ3LDJ0/edit?pli=1)
 - **XAI Project Thought & Task List**: Access this on the iPhone Notes app (if shared).
 
-
-
