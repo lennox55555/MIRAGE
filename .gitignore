@@ -1,2 +1,4 @@
 /venv
 .DS_Store
+/audio_splitter/input_audios
+/audio_splitter/output_audios
