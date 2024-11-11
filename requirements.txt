@@ -59,3 +59,5 @@ treetable==0.2.5
 typing_extensions==4.12.2
 urllib3==2.2.3
 pydub==0.25.1
+rvc-python==0.1.4
+tensorboardX==2.6.2.2
