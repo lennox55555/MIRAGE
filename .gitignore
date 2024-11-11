@@ -2,3 +2,6 @@
 .DS_Store
 /audio_splitter/input_audios
 /audio_splitter/output_audios
+/research/rvc_programmatic/input_audios
+/research/rvc_programmatic/output_audios
+/research/rvc_programmatic/voice_models
