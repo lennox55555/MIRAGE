@@ -110,6 +110,12 @@ Displays all songs and features currently stored in the database. This option he
 - **output/synthesized**: Contains synthesized versions of songs recreated from formulas.
 - **output/custom merged stems**: Stores custom reconstructions where the user has combined specific stems.
 
+## rvc_programmatic
+This folder uses the rvc_python package and creates a command line tool to be able to run inference using pre-trained retrieval-based voice conversion models on given input audios. Steps for specifics on how to run rvc_programmatic can be found in {root_directory}/research/rvc_programmatic/README.md
+
+## audio_splitter
+audio_splitter is a command line tool that segments audio files into roughly even length segments to be used as training data for the RVC model. Segments are only roughly even because audio is preprocessed to ensure that nonsilent chunks of audio are discarded, and some chunks of non-silent audio will not be of the same length. Segments are not combined to be even length because audio between silences could vary greatly and make for poor training data. Steps for how to run this command line tool can be found in {root_directory}/audio_splitter/README.md
+
 ## Resources and External Links
 
 - **Main Folder**: [Google Drive Link](https://drive.google.com/drive/folders/1HCV-JvT3qGOSIKYPMTZ3BZDMC3YK1YfV?usp=drive_link)

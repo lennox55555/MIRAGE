@@ -1,4 +1,4 @@
-### To Run Audio Splitter
+### To Run RVC Programmatic
 
 ### Required Dependencies
 rvc-python==0.1.4
